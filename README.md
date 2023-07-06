@@ -17,5 +17,4 @@ Example of model prediction - 1
 Example of model prediction - 2
 ![Random Check Final](https://github.com/td121/WindmillDetectorModel/assets/94444639/e2393316-0295-4f17-b27c-31c2c81c223e)
 
-![Uploading Confusion On Training.png…]()![Uploading Historgram Before.png…]()
 
