@@ -2,6 +2,7 @@
 
 The acquired information originates from OpenStreetMap. To ensure relevance and efficiency, a specific filter was utilised to keep only important data from OSM. The file for generating data instituted an automated procedure to crop Regions of Interest (ROI) from extensive satellite images, employing 256*256 image coordinates. I incorporated an additional command to account for the coordinate system, thus ensuring each cropping was matched with the accurate coordinate system for its respective area. It should be emphasized that the OSM data tagging system requires enhancement for a more comprehensive description of its features. Consequently, further documentation of Oil Rigs and other floating objects is necessary. <br/>
 
+
 The provided model can be utilized for transfer learning purposes. However, further fine-tuning of the model is required.
 
 <br/>
